@@ -1,6 +1,6 @@
 ## Cave Of The Dead
 
-#### [<< Return To Main Page](https://pikakid98.github.io/) [< Return To Repo Page](https://pikakid98.github.io/cave-of-the-dead)
+#### [![home](https://user-images.githubusercontent.com/12392651/112509809-bbc12c80-8d88-11eb-9cf7-f7a814a7b2b4.png)](https://pikakid98.github.io/) [![repo](https://user-images.githubusercontent.com/12392651/112509818-bebc1d00-8d88-11eb-852a-78cc92501055.png)](https://pikakid98.github.io/cave-of-the-dead)
 
 <h1>Current Build</h1>
 
