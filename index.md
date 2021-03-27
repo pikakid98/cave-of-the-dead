@@ -1,5 +1,3 @@
-## Cave Of The Dead
-
 #### [![home](https://user-images.githubusercontent.com/12392651/112509694-9d5b3100-8d88-11eb-96f9-d5b56fce792b.png)](https://pikakid98.github.io/)
 
 [![learnmore](https://user-images.githubusercontent.com/12392651/112509710-a1874e80-8d88-11eb-85e8-24805d02125f.png)](https://pikakid98games.wordpress.com/caveofthedead) [![download](https://user-images.githubusercontent.com/12392651/112509705-9fbd8b00-8d88-11eb-916d-c39766ee8575.png)](https://pikakid98.github.io/cave-of-the-dead/download)
