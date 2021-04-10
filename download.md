@@ -4,11 +4,15 @@
 
 <h1>Current Build</h1>
 
+v1.1.1
+
+[Binary (Windows)](https://github.com/pikakid98/cave-of-the-dead/releases/download/v1.1.1/Cave.Of.The.Dead.v1.1.1.7z) | [Source Code](https://github.com/pikakid98/cave-of-the-dead/archive/refs/tags/v1.1.1.zip)
+
+<h1>Older Builds</h1>
+
 v1.1
 
 [Binary (Windows)](https://github.com/pikakid98/cave-of-the-dead/releases/download/v1.1/Cave.Of.The.Dead.v1.1.7z) | [Source Code](https://github.com/pikakid98/cave-of-the-dead/archive/refs/tags/v1.1.zip)
-
-<h1>Older Builds</h1>
 
 v1.0
 
